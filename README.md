@@ -1,9 +1,9 @@
 
 <HEAD>
 <TITLE>
-Pagina A
+Pagina B
 </TITLE>
 </HEAD>
 <BODY>
-Esta es mi pagina A
+Esta es mi pagina B
 </BODY>
